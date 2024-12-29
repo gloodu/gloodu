@@ -11,4 +11,4 @@ Experienced technology leader with a passion for cloud computing and AI, current
 - Machine Learning with Python
 - Oracle AI  https://www.oracle.com/artificial-intelligence/
   
-Feel free to follow me, email me, or send me a connection request on LinkedIn — all found in the sidebar .
+Feel free to follow me, email me, or send me a connection request on LinkedIn — they are listed in the left sidebar .
