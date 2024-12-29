@@ -1,4 +1,4 @@
-# Hello, I'm [Gary Loodu] 👋
+# Hi There, I'm [Gary Loodu] 👋
 
 Experienced technology leader with a passion for cloud computing and AI, currently focusing on driving innovation at [Oracle]. Active contributor to open-source projects related to scalable infrastructure.
 
