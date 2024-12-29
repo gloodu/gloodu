@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on OCI.
+ ##🔭 I’m currently working on OCI.
  🌱 I’m currently learning Python and Golang.
  👯 I’m looking to collaborate on new projects
 - 💬 Ask me about yoga
