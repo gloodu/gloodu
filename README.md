@@ -16,8 +16,4 @@ Experienced technology leader with a passion for cloud computing and AI, current
 - Oracle AI
 - OCI AI 
 
-## 📫 How to Reach Me
-- Email: [Loodug@gmail.com]
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/garyloodu/)
-
 Feel free to reach out if you'd like to collaborate or just chat about tech!
