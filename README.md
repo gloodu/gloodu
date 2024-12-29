@@ -1,15 +1,23 @@
-## Hi there 👋
+# Hello, I'm [Gary Loodu] 👋
 
-<!--
-**gloodu/gloodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate to learn coding with expertise in **Python** and **Golang**. I enjoy building applications that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages**: Python, Go
+- **Frameworks**: Flask, Django (for Python), Gin (for Go)
+- **Tools**: Docker, Git, CI/CD
+- **Databases**: PostgreSQL, MongoDB, Oracle atp
 
- ##🔭 I’m currently working on OCI.
- 🌱 I’m currently learning Python and Golang.
- 👯 I’m looking to collaborate on new projects
-- 💬 Ask me about yoga
-- 📫 How to reach me: Loodug@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced Go concepts
+- Machine Learning with Python
+
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+- Email: [Loodug@gmail.com]
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/garyloodu/)
+
+Feel free to reach out if you'd like to collaborate or just chat about tech!
