@@ -16,10 +16,6 @@ Experienced technology leader with a passion for cloud computing and AI, current
 - Oracle AI
 - OCI AI 
 
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical)
-
 ## 📫 How to Reach Me
 - Email: [Loodug@gmail.com]
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/garyloodu/)
