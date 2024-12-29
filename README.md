@@ -12,5 +12,6 @@ Experienced technology leader with a passion for cloud computing and AI, current
 - Advanced Go concepts
 - Machine Learning with Python
 - Oracle AI
-- OCI AI 
+- OCI AI
+- 
 Feel free to follow me, email me, or send me a connection request on LinkedIn — all found in the sidebar 
