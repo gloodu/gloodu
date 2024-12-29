@@ -5,13 +5,10 @@ Experienced technology leader with a passion for cloud computing and AI, current
 
 ## 🛠️ Skills
 - **Leadership**: technical leadership and exective management. 
-- **Languages**: Python, Golang
-- **Databases**: PostgreSQL, MongoDB, Oracle atp
 
 ## 🌱 Currently Learning
 - Advanced Go concepts
 - Machine Learning with Python
-- Oracle AI
-- OCI AI
+- Oracle AI  https://www.oracle.com/artificial-intelligence/
   
 Feel free to follow me, email me, or send me a connection request on LinkedIn — all found in the sidebar .
