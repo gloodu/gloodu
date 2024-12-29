@@ -13,6 +13,8 @@ Experienced technology leader with a passion for cloud computing and AI, current
 ## 🌱 Currently Learning
 - Advanced Go concepts
 - Machine Learning with Python
+- Oracle AI
+- OCI AI 
 
 
 ## 📈 GitHub Stats
@@ -20,6 +22,6 @@ Experienced technology leader with a passion for cloud computing and AI, current
 
 ## 📫 How to Reach Me
 - Email: [Loodug@gmail.com]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/garyloodu/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/garyloodu/)
 
 Feel free to reach out if you'd like to collaborate or just chat about tech!
