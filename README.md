@@ -4,7 +4,8 @@ Experienced technology leader with a passion for cloud computing and AI, current
 
 
 ## 🛠️ Skills
-- **Languages**: Python, Go
+- **Leadership**: technical leadership and exective management. 
+- **Languages**: Python, Golang
 - **Frameworks**: Flask, Django (for Python), Gin (for Go)
 - **Tools**: Docker, Git, CI/CD
 - **Databases**: PostgreSQL, MongoDB, Oracle atp
