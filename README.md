@@ -1,6 +1,7 @@
 # Hello, I'm [Gary Loodu] 👋
 
-I'm a passionate to learn coding with expertise in **Python** and **Golang**. I enjoy building applications that solve real-world problems.
+Experienced technology leader with a passion for cloud computing and AI, currently focusing on driving innovation at [Oracle]. Active contributor to open-source projects related to scalable infrastructure.
+
 
 ## 🛠️ Skills
 - **Languages**: Python, Go
