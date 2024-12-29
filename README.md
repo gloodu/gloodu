@@ -15,5 +15,4 @@ Experienced technology leader with a passion for cloud computing and AI, current
 - Machine Learning with Python
 - Oracle AI
 - OCI AI 
-
-Feel free to reach out if you'd like to collaborate or just chat about tech!
+Feel free to follow me, email me, or send me a connection request on LinkedIn — all found in the sidebar 
