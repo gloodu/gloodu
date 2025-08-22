@@ -1,6 +1,6 @@
 # Hi There 👋
 
-Experienced technology leader with a passion for cloud computing and AI, currently focusing on driving innovation at Oracle. 
+Experienced technology leader with a passion for cloud computing and AI, currently focusing on driving innovation .
 
 
 ## 🛠️ Skills
